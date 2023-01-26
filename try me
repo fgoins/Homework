@@ -4,3 +4,6 @@ create a folder named repos "mkdir repos"
 cd into the new folder "cd repos"
 inside the repos folder create a new folder "mkdir pizzaAlgo"
 initialize that folder as a git repository "git init"
+using visual studio code create a file under the folder "name"
+add your algo and save it.
+go to the command line term. and commit it.
